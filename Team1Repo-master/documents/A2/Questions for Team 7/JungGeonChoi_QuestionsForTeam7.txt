@@ -1,0 +1,5 @@
+Q1. If students are good at everything or bad at everything or totally average, what would be the recommendation from the system? 
+
+Q2. Using final grade to calculate weight of each of learning outcomes might not accurate. How do you think about this idea?
+
+Q3. What’s the format of report? Any idea about how would you implement? Why not showing it as online page? 

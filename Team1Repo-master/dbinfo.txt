@@ -1,0 +1,9 @@
+198.71.227.98
+bts530
+bts530database
+crm
+------------
+localhost
+koodo
+ab1234
+=======

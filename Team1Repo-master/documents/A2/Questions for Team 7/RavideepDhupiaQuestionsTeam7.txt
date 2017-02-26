@@ -1,0 +1,8 @@
+Q1. Student's previous grade will only be a measure of his/her overall performance in the course. But the course may have several learning outcomes. 
+So will a bad or good grade in the course impact all learning outcomes of the course equally? Because the student might be strong in some areas and weak in others.
+
+Q2. When a new learning outcome is added and then assigned courses, how will the coordinator differentiate between courses that depend heavily on the 
+learning outcome and courses that do not?
+
+Q3. Will the proposed system have any connection with the existing school system? Eg. Syncing of grades or student info. 
+Will the share the same database or share folders or will all the info be fed in independently?
